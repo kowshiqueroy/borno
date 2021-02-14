@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Alphabets">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <Button
+                    android:id="@+id/a1"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="A" />
+
+                <Button
+                    android:id="@+id/a2"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="B" />
+
+                <Button
+                    android:id="@+id/a3"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="C" />
+
+                <Button
+                    android:id="@+id/a4"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="D" />
+
+                <Button
+                    android:id="@+id/a5"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="E" />
+
+                <Button
+                    android:id="@+id/a6"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="F" />
+
+                <Button
+                    android:id="@+id/a7"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="G" />
+
+                <Button
+                    android:id="@+id/a8"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="H" />
+
+                <Button
+                    android:id="@+id/a9"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="I" />
+
+                <Button
+                    android:id="@+id/a10"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="J" />
+
+                <Button
+                    android:id="@+id/a11"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="K" />
+
+                <Button
+                    android:id="@+id/a12"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="L" />
+
+                <Button
+                    android:id="@+id/a13"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="M" />
+
+                <Button
+                    android:id="@+id/a14"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="N" />
+
+                <Button
+                    android:id="@+id/a15"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="O" />
+
+                <Button
+                    android:id="@+id/a16"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="P" />
+
+                <Button
+                    android:id="@+id/a17"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Q" />
+
+                <Button
+                    android:id="@+id/a18"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="R" />
+
+                <Button
+                    android:id="@+id/a19"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="S" />
+
+                <Button
+                    android:id="@+id/a20"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="T" />
+
+                <Button
+                    android:id="@+id/a21"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="U" />
+
+                <Button
+                    android:id="@+id/a22"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="V" />
+
+                <Button
+                    android:id="@+id/a23"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="W" />
+
+                <Button
+                    android:id="@+id/a24"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="X" />
+
+                <Button
+                    android:id="@+id/a25"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Y" />
+
+                <Button
+                    android:id="@+id/a26"
+                    android:textSize="100sp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Z" />
+
+
+
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

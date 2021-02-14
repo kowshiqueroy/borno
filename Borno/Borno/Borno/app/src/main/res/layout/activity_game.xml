@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".game">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/b112"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Result" />
+
+            <TextView
+                android:id="@+id/result"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="-----" />
+
+            <TextView
+                android:id="@+id/b111"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Find the word" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/t"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="A"
+            android:textAlignment="center"
+            android:textSize="150dp" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <ScrollView
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/op3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Cat" />
+
+                    <Button
+                        android:id="@+id/op4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Dog" />
+
+                    <Button
+                        android:id="@+id/op7"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Goat" />
+
+                    <Button
+                        android:id="@+id/op6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Fox" />
+
+                    <Button
+                        android:id="@+id/op10"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Jag" />
+
+                    <Button
+                        android:id="@+id/op8"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Hen" />
+
+                    <Button
+                        android:id="@+id/op20"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Table" />
+
+                    <Button
+                        android:id="@+id/op5"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Elephant" />
+
+                    <Button
+                        android:id="@+id/op1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Apple" />
+
+                    <Button
+                        android:id="@+id/op2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Ball" />
+
+                    <Button
+                        android:id="@+id/op14"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Nut" />
+
+                    <Button
+                        android:id="@+id/op18"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Rat" />
+
+                    <Button
+                        android:id="@+id/op11"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Key" />
+
+                    <Button
+                        android:id="@+id/op24"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="X-ray" />
+
+                    <Button
+                        android:id="@+id/op12"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Lemon" />
+
+                    <Button
+                        android:id="@+id/op17"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Queen" />
+
+                    <Button
+                        android:id="@+id/op21"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Umbrella" />
+
+                    <Button
+                        android:id="@+id/op9"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Iphone" />
+
+                    <Button
+                        android:id="@+id/op23"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Window" />
+
+                    <Button
+                        android:id="@+id/op13"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Mango" />
+
+                    <Button
+                        android:id="@+id/op15"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Orange" />
+
+                    <Button
+                        android:id="@+id/op26"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Zoo" />
+
+                    <Button
+                        android:id="@+id/op16"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Pen" />
+
+                    <Button
+                        android:id="@+id/op19"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Snake" />
+
+                    <Button
+                        android:id="@+id/op22"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Van" />
+
+                    <Button
+                        android:id="@+id/op25"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Yellow" />
+
+                </LinearLayout>
+            </ScrollView>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

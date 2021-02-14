@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81c58e9f-0954-4a97-b9b9-dfc467deb3b3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1l8RKGoskZFJjcsm6G2IOFKFLgf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunAnythingContextRecentDirectoryCache">
+    <option name="paths">
+      <recentPaths value="$PROJECT_DIR$" />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81c58e9f-0954-4a97-b9b9-dfc467deb3b3" name="Default Changelist" comment="" />
+      <created>1606976665936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606976665936</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="654" y="275" key="#Notifications" timestamp="1610471086147">
+      <screen x="0" y="0" width="1465" height="864" />
+    </state>
+    <state x="654" y="275" key="#Notifications/0.0.1465.864@0.0.1465.864" timestamp="1610471086147" />
+    <state x="283" y="173" width="1201" height="674" key="AVDManager" timestamp="1606977515134">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="283" y="173" width="1201" height="674" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1606977515134" />
+    <state x="739" y="319" key="FileChooserDialogImpl" timestamp="1606977482777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="319" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606977482777" />
+    <state x="1011" y="87" key="run.anything.popup" timestamp="1606977480491">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1011" y="87" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606977480491" />
+  </component>
+</project>
