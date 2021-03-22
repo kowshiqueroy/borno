@@ -34,18 +34,19 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/bangla"
+        android:layout_marginTop="81dp"
         android:text="English"
-        android:textSize="25sp"
 
+        android:textSize="25sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.555"
-        app:layout_constraintStart_toStartOf="parent"
-        />
+        app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
         android:layout_marginStart="125dp"
         android:layout_marginLeft="125dp"
         android:layout_marginTop="135dp"
@@ -56,23 +57,22 @@
         android:textSize="30sp"
         app:layout_constraintBottom_toTopOf="@+id/textView2"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        android:layout_centerInParent="true" />
+        app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="19dp"
+        android:layout_below="@id/textView"
+        android:layout_centerInParent="true"
         android:layout_marginStart="62dp"
         android:layout_marginLeft="62dp"
-        android:layout_marginTop="34dp"
+        android:layout_marginTop="204dp"
         android:layout_marginEnd="45dp"
         android:layout_marginRight="45dp"
         android:text="kowshique roy"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        android:layout_centerInParent="true"
-        android:layout_below="@id/textView"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
     <Button
